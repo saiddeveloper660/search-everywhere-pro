@@ -1,11 +1,1 @@
-<div align="center">
-
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+A modern, lightweight, and privacy-friendly Chrome extension that lets you search Google, YouTube, GitHub, Wikipedia, Reddit, and more — all in one place. Featuring custom search engines, dark mode, favorites, and quick right-click search.
